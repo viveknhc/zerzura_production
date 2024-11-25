@@ -1,0 +1,82 @@
+
+.mouse-stalker {
+    position: fixed;
+    top: 0;
+    left: 0;
+    transform: translate3d(50vw, 50vh, 0);
+    z-index: 9999;
+    pointer-events: none;
+    transition: all 0.2s ease-out;
+}
+
+.mouse-stalker.mix-blend {
+    mix-blend-mode: exclusion;
+}
+
+.mouse-stalker.mix-blend .mouse-stalker--circle {
+    /* background: #00ff26; */
+
+}
+
+.mouse-stalker.scale--large .mouse-stalker--circle {
+    transform: scale(1.4);
+    /* background: rgb(51, 255, 0); */
+}
+
+.mouse-stalker.scale--small .mouse-stalker--circle {
+    transform: scale(0.2);
+    /* background: rgb(10, 214, 13); */
+    margin: -20px -20px;
+}
+
+.mouse-stalker.show-text .mouse-stalker--text {
+    opacity: 1;
+    font-size: 10px;
+    margin: 0;
+}
+
+.mouse-stalker.scale--large.show-text .mouse-stalker--circle {
+    /* background:var(--primary-vanila); */
+}
+
+.mouse-stalker--container {
+    position: relative;
+}
+
+.mouse-stalker--circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    margin: -15px 0 0 -15px;
+    border-radius: 50%;
+    /* background: #5347412e; */
+    opacity: 0;
+    transition: all 0.2s ease-out;
+}
+
+.mouse-stalker--text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    color: #ffffff;
+    transition: all 0.1s ease-out;
+    font-family: 'RaleGrotesk-Thin';
+    padding: 30px;
+    border-radius: 100%;
+    background-color: var(--primary-vanila);
+}
+
+.mouse-stalker.isActive.show .mouse-stalker--circle {
+    opacity: 1;
+}
+
+/* show hover effect only for the element with actual width */
+
+
+.hover-effect.scale--small,
+.hover-effect.show-text {
+    cursor: none;
+}

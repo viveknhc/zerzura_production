@@ -1,0 +1,918 @@
+{
+    "dune_buggy": [
+        {
+            "id": 1,
+            "title": "2 Seater Mleiha Dune Buggy Safari With Transfer",
+            "description": "Experience the thrill of a lifetime on a dune buggy desert adventure tour! Race through the sand dunes, explore hidden wadis, and enjoy stunning views of the Arabian desert.",
+            "offer": {
+                "offer1": "4 Hour",
+                "offer2": "Pickup & Drop-off",
+                "offer3": "Mleiha Desert",
+                "offer4": "2 persons"
+            },
+            "price": "AED 1500 ($409) per buggy",
+            "package_category_img": "/images/package/dune/2_Seater_Mleiha _Dune_Buggy_Safari_With_Transfer.png",
+
+            "package_category_heading": "PrivateDinner Desert",
+            "package_category_text": "Enjoy the thrill and excitement of riding a dune buggy through the Mleiha desert. With each turn, you’ll discover the beauty and vastness of the sandy dunes and rugged terrain. The experience offers stunning views of the endless desert landscape, creating a perfect blend of adventure and scenery. It’s an unforgettable journey, ideal for both thrill-seekers and those who appreciate the wonders of nature.",
+            "faq_left": [
+                {
+                    "eventKey": 0,
+                    "question": "Is There Any Age Limit For Dune Buggy Tours?",
+                    "answer": "Drivers Should Be Above 16 Years"
+                },
+                {
+                    "eventKey": 1,
+                    "question": "What Is The Cancellation Policy?",
+                    "answer": "No Cancellation Charges For 1 Day Notice Before The Buggy Tour. Full Charged For Less Than 24 Hours Notice Or No Show."
+                },
+                {
+                    "eventKey": 2,
+                    "question": "Can I Get A Refund On Unused Or Partially Unused Services?",
+                    "answer": "No"
+                },
+                {
+                    "eventKey": 3,
+                    "question": "How Long Will It Take For The Processing Of Refunds?",
+                    "answer": "7 To 8 Working Days."
+                },
+                {
+                    "eventKey": 4,
+                    "question": "What should I wear and bring for the buggy tours?",
+                    "answer": "Participants are advised to wear comfortable outdoor clothing suitable for the weather conditions. Closed-toe shoes are recommended. Bring sunscreen, sunglasses, a hat, and plenty of water."
+                },
+                {
+                    "eventKey": 5,
+                    "question": "Can I bring my camera or GoPro on the safari?",
+                    "answer": "Yes, participants are encouraged to bring cameras or GoPros to capture moments. Ensure they are secured properly to prevent damage on rugged terrain."
+                },
+                {
+                    "eventKey": 6,
+                    "question": "How can I contact Zerzura Experience for more information or to book a safari Dubai?",
+                    "answer": "For more information or bookings, contact Zerzura Experience through their website, email, or phone. Customer service representatives are available for assistance."
+                },
+                {
+                    "eventKey": 7,
+                    "question": "Are meals included in the dune buggy packages?",
+                    "answer": "Meal inclusions vary depending on the safari package. Some packages include meals, while others offer meal options at an additional cost."
+                },
+                {
+                    "eventKey": 8,
+                    "question": "Are helmets provided, and do I need to wear one?",
+                    "answer": "Yes, helmets are provided, and wearing them is mandatory throughout the safari for your safety."
+                },
+                {
+                    "eventKey": 9,
+                    "question": "Can children ride along on the tours?",
+                    "answer": "Yes, children can ride as passengers with a parent or guardian as long as they meet the minimum age requirement."
+                }
+            ],
+            "faq_right": [
+                {
+                    "eventKey": 0,
+                    "question": "What Are The Procedures To Cancel A Reservation And Request A Refund?",
+                    "answer": "Send Us An E-mail Confirming That You Want To Cancel The Reservation. We’ll Be More Than Happy To Help You With The Process"
+                },
+                {
+                    "eventKey": 1,
+                    "question": "What should I expect during the tours?",
+                    "answer": "During the dune buggy rides, Dubai expect to encounter thrilling terrain including sand dunes, desert trails, and possibly even rocky terrain. You’ll navigate through varying landscapes while enjoying panoramic views of the desert. The experience combines adventure with the opportunity to appreciate the natural beauty of the surroundings."
+                },
+                {
+                    "eventKey": 2,
+                    "question": "Do I need prior driving experience to join the safari?",
+                    "answer": "No prior driving experience is necessary. Our expert guides will provide comprehensive safety briefings and instructions on operating the dune buggies Dubai. They will ensure that all participants feel comfortable and confident before embarking on the adventure."
+                },
+                {
+                    "eventKey": 3,
+                    "question": "Are there any specific rules or guidelines I should follow during the safari?",
+                    "answer": "Yes, participants are expected to follow the instructions provided by the tour guide, including staying on designated trails, maintaining a safe distance from other vehicles, and respecting the natural environment."
+                },
+                {
+                    "eventKey": 4,
+                    "question": "Is the Dune Buggy safe?",
+                    "answer": "Safety is our top priority, and our dune buggies are meticulously maintained to ensure optimal performance and reliability. Additionally, our experienced guides are trained in first aid and equipped with communication devices to handle any emergencies that may arise during the safari."
+                },
+                {
+                    "eventKey": 5,
+                    "question": "Is transportation provided to the safari location?",
+                    "answer": "Zerzura Experience may offer transportation services as part of the safari package, depending on the location and package chosen. Participants are advised to check the details of their chosen package for transportation arrangements."
+                },
+                {
+                    "eventKey": 6,
+                    "question": "Do I need to book in advance for a dune buggy tours with Zerzura Experience?",
+                    "answer": "It’s highly recommended to book in advance to secure your spot, especially during peak seasons. Zerzura Experience may accommodate last-minute bookings depending on availability, but advance booking ensures availability and allows for better planning."
+                },
+                {
+                    "eventKey": 7,
+                    "question": "Can pregnant women participate in the dune buggy?",
+                    "answer": "No, for safety reasons, pregnant women are not allowed to drive or participate in the dune buggy rides. The terrain and conditions can be unpredictable, and we prioritize the safety and well-being of all our guests, including unborn children."
+                },
+                {
+                    "eventKey": 8,
+                    "question": "Are there any medical restrictions for participating in the dune buggy Dubai?",
+                    "answer": "While there are no specific medical restrictions, participants should be in good physical health and free from any conditions that could be aggravated by the bumpy terrain or outdoor conditions. If you have any concerns, please consult with your healthcare provider before booking."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "2 Seater Mleiha Dune Buggy Safari Without Transfer",
+            "description": "Unleash Your Inner Adventurer On A Dune Buggy Desert Safari! With Our Experienced Guides, You’ll Experience The Best Of The Desert, From Soaring Dune Tops To Hidden Oasis.",
+            "offer": {
+                "offer1": "4 Hours",
+                "offer2": "No Pickup",
+                "offer3": "Mleiha Desert",
+                "offer4": "2 persons"
+            },
+            "price": "AED 1000 ($273) per Buggy",
+            "package_category_img": "/images/package/dune/2_Seater_Mleiha _Dune_Buggy_Safari_Without_Transfer.png",
+
+            "faq_left": [
+                {
+                    "eventKey": 0,
+                    "question": "Is There Any Age Limit For Dune Buggy Tours?",
+                    "answer": "Drivers Should Be Above 16 Years"
+                },
+                {
+                    "eventKey": 1,
+                    "question": "What Is The Cancellation Policy?",
+                    "answer": "No Cancellation Charges For 1 Day Notice Before The Buggy Tour. Full Charged For Less Than 24 Hours Notice Or No Show."
+                },
+                {
+                    "eventKey": 2,
+                    "question": "Can I Get A Refund On Unused Or Partially Unused Services?",
+                    "answer": "No"
+                },
+                {
+                    "eventKey": 3,
+                    "question": "How Long Will It Take For The Processing Of Refunds?",
+                    "answer": "7 To 8 Working Days."
+                },
+                {
+                    "eventKey": 4,
+                    "question": "What should I wear and bring for the buggy tours?",
+                    "answer": "Participants are advised to wear comfortable outdoor clothing suitable for the weather conditions. Closed-toe shoes are recommended. Bring sunscreen, sunglasses, a hat, and plenty of water."
+                },
+                {
+                    "eventKey": 5,
+                    "question": "Can I bring my camera or GoPro on the safari?",
+                    "answer": "Yes, participants are encouraged to bring cameras or GoPros to capture moments. Ensure they are secured properly to prevent damage on rugged terrain."
+                },
+                {
+                    "eventKey": 6,
+                    "question": "How can I contact Zerzura Experience for more information or to book a safari Dubai?",
+                    "answer": "For more information or bookings, contact Zerzura Experience through their website, email, or phone. Customer service representatives are available for assistance."
+                },
+                {
+                    "eventKey": 7,
+                    "question": "Are meals included in the dune buggy packages?",
+                    "answer": "Meal inclusions vary depending on the safari package. Some packages include meals, while others offer meal options at an additional cost."
+                },
+                {
+                    "eventKey": 8,
+                    "question": "Are helmets provided, and do I need to wear one?",
+                    "answer": "Yes, helmets are provided, and wearing them is mandatory throughout the safari for your safety."
+                },
+                {
+                    "eventKey": 9,
+                    "question": "Can children ride along on the tours?",
+                    "answer": "Yes, children can ride as passengers with a parent or guardian as long as they meet the minimum age requirement."
+                }
+            ],
+            "faq_right": [
+                {
+                    "eventKey": 0,
+                    "question": "What Are The Procedures To Cancel A Reservation And Request A Refund?",
+                    "answer": "Send Us An E-mail Confirming That You Want To Cancel The Reservation. We’ll Be More Than Happy To Help You With The Process"
+                },
+                {
+                    "eventKey": 1,
+                    "question": "What should I expect during the tours?",
+                    "answer": "During the dune buggy rides, Dubai expect to encounter thrilling terrain including sand dunes, desert trails, and possibly even rocky terrain. You’ll navigate through varying landscapes while enjoying panoramic views of the desert. The experience combines adventure with the opportunity to appreciate the natural beauty of the surroundings."
+                },
+                {
+                    "eventKey": 2,
+                    "question": "Do I need prior driving experience to join the safari?",
+                    "answer": "No prior driving experience is necessary. Our expert guides will provide comprehensive safety briefings and instructions on operating the dune buggies Dubai. They will ensure that all participants feel comfortable and confident before embarking on the adventure."
+                },
+                {
+                    "eventKey": 3,
+                    "question": "Are there any specific rules or guidelines I should follow during the safari?",
+                    "answer": "Yes, participants are expected to follow the instructions provided by the tour guide, including staying on designated trails, maintaining a safe distance from other vehicles, and respecting the natural environment."
+                },
+                {
+                    "eventKey": 4,
+                    "question": "Is the Dune Buggy safe?",
+                    "answer": "Safety is our top priority, and our dune buggies are meticulously maintained to ensure optimal performance and reliability. Additionally, our experienced guides are trained in first aid and equipped with communication devices to handle any emergencies that may arise during the safari."
+                },
+                {
+                    "eventKey": 5,
+                    "question": "Is transportation provided to the safari location?",
+                    "answer": "Zerzura Experience may offer transportation services as part of the safari package, depending on the location and package chosen. Participants are advised to check the details of their chosen package for transportation arrangements."
+                },
+                {
+                    "eventKey": 6,
+                    "question": "Do I need to book in advance for a dune buggy tours with Zerzura Experience?",
+                    "answer": "It’s highly recommended to book in advance to secure your spot, especially during peak seasons. Zerzura Experience may accommodate last-minute bookings depending on availability, but advance booking ensures availability and allows for better planning."
+                },
+                {
+                    "eventKey": 7,
+                    "question": "Can pregnant women participate in the dune buggy?",
+                    "answer": "No, for safety reasons, pregnant women are not allowed to drive or participate in the dune buggy rides. The terrain and conditions can be unpredictable, and we prioritize the safety and well-being of all our guests, including unborn children."
+                },
+                {
+                    "eventKey": 8,
+                    "question": "Are there any medical restrictions for participating in the dune buggy Dubai?",
+                    "answer": "While there are no specific medical restrictions, participants should be in good physical health and free from any conditions that could be aggravated by the bumpy terrain or outdoor conditions. If you have any concerns, please consult with your healthcare provider before booking."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "4 Seater Mleiha Dune Buggy Safari With Transfer",
+            "description": "Experience The Magic Of The Arabian Sunset On A Dune Buggy Tour. As The Sun Dips Below The Horizon, The Desert Comes Alive With Color.",
+            "offer": {
+                "offer1": "4 Hours",
+                "offer2": "Pickup & Drop-off",
+                "offer3": "Mleiha Desert",
+                "offer4": "4 persons"
+            },
+            "price": "AED 1800 ($491) per buggy",
+            "package_category_img": "/images/package/dune/4_Seater_Mleiha_Dune_Buggy_Safari_With_Transfer.png",
+
+            "faq_left": [
+                {
+                    "eventKey": 0,
+                    "question": "Is There Any Age Limit For Dune Buggy Tours?",
+                    "answer": "Drivers Should Be Above 16 Years"
+                },
+                {
+                    "eventKey": 1,
+                    "question": "What Is The Cancellation Policy?",
+                    "answer": "No Cancellation Charges For 1 Day Notice Before The Buggy Tour. Full Charged For Less Than 24 Hours Notice Or No Show."
+                },
+                {
+                    "eventKey": 2,
+                    "question": "Can I Get A Refund On Unused Or Partially Unused Services?",
+                    "answer": "No"
+                },
+                {
+                    "eventKey": 3,
+                    "question": "How Long Will It Take For The Processing Of Refunds?",
+                    "answer": "7 To 8 Working Days."
+                },
+                {
+                    "eventKey": 4,
+                    "question": "What should I wear and bring for the buggy tours?",
+                    "answer": "Participants are advised to wear comfortable outdoor clothing suitable for the weather conditions. Closed-toe shoes are recommended. Bring sunscreen, sunglasses, a hat, and plenty of water."
+                },
+                {
+                    "eventKey": 5,
+                    "question": "Can I bring my camera or GoPro on the safari?",
+                    "answer": "Yes, participants are encouraged to bring cameras or GoPros to capture moments. Ensure they are secured properly to prevent damage on rugged terrain."
+                },
+                {
+                    "eventKey": 6,
+                    "question": "How can I contact Zerzura Experience for more information or to book a safari Dubai?",
+                    "answer": "For more information or bookings, contact Zerzura Experience through their website, email, or phone. Customer service representatives are available for assistance."
+                },
+                {
+                    "eventKey": 7,
+                    "question": "Are meals included in the dune buggy packages?",
+                    "answer": "Meal inclusions vary depending on the safari package. Some packages include meals, while others offer meal options at an additional cost."
+                },
+                {
+                    "eventKey": 8,
+                    "question": "Are helmets provided, and do I need to wear one?",
+                    "answer": "Yes, helmets are provided, and wearing them is mandatory throughout the safari for your safety."
+                },
+                {
+                    "eventKey": 9,
+                    "question": "Can children ride along on the tours?",
+                    "answer": "Yes, children can ride as passengers with a parent or guardian as long as they meet the minimum age requirement."
+                }
+            ],
+            "faq_right": [
+                {
+                    "eventKey": 0,
+                    "question": "What Are The Procedures To Cancel A Reservation And Request A Refund?",
+                    "answer": "Send Us An E-mail Confirming That You Want To Cancel The Reservation. We’ll Be More Than Happy To Help You With The Process"
+                },
+                {
+                    "eventKey": 1,
+                    "question": "What should I expect during the tours?",
+                    "answer": "During the dune buggy rides, Dubai expect to encounter thrilling terrain including sand dunes, desert trails, and possibly even rocky terrain. You’ll navigate through varying landscapes while enjoying panoramic views of the desert. The experience combines adventure with the opportunity to appreciate the natural beauty of the surroundings."
+                },
+                {
+                    "eventKey": 2,
+                    "question": "Do I need prior driving experience to join the safari?",
+                    "answer": "No prior driving experience is necessary. Our expert guides will provide comprehensive safety briefings and instructions on operating the dune buggies Dubai. They will ensure that all participants feel comfortable and confident before embarking on the adventure."
+                },
+                {
+                    "eventKey": 3,
+                    "question": "Are there any specific rules or guidelines I should follow during the safari?",
+                    "answer": "Yes, participants are expected to follow the instructions provided by the tour guide, including staying on designated trails, maintaining a safe distance from other vehicles, and respecting the natural environment."
+                },
+                {
+                    "eventKey": 4,
+                    "question": "Is the Dune Buggy safe?",
+                    "answer": "Safety is our top priority, and our dune buggies are meticulously maintained to ensure optimal performance and reliability. Additionally, our experienced guides are trained in first aid and equipped with communication devices to handle any emergencies that may arise during the safari."
+                },
+                {
+                    "eventKey": 5,
+                    "question": "Is transportation provided to the safari location?",
+                    "answer": "Zerzura Experience may offer transportation services as part of the safari package, depending on the location and package chosen. Participants are advised to check the details of their chosen package for transportation arrangements."
+                },
+                {
+                    "eventKey": 6,
+                    "question": "Do I need to book in advance for a dune buggy tours with Zerzura Experience?",
+                    "answer": "It’s highly recommended to book in advance to secure your spot, especially during peak seasons. Zerzura Experience may accommodate last-minute bookings depending on availability, but advance booking ensures availability and allows for better planning."
+                },
+                {
+                    "eventKey": 7,
+                    "question": "Can pregnant women participate in the dune buggy?",
+                    "answer": "No, for safety reasons, pregnant women are not allowed to drive or participate in the dune buggy rides. The terrain and conditions can be unpredictable, and we prioritize the safety and well-being of all our guests, including unborn children."
+                },
+                {
+                    "eventKey": 8,
+                    "question": "Are there any medical restrictions for participating in the dune buggy Dubai?",
+                    "answer": "While there are no specific medical restrictions, participants should be in good physical health and free from any conditions that could be aggravated by the bumpy terrain or outdoor conditions. If you have any concerns, please consult with your healthcare provider before booking."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "4 Seater Mleiha Dune Buggy Safari Without Transfer",
+            "description": "Drive through the desert sands and immerse yourself in the Desert Fox experience!",
+            "offer": {
+                "offer1": "4 Hours",
+                "offer2": "No Pickup",
+                "offer3": "Mleiha Desert",
+                "offer4": "4 persons"
+            },
+            "price": "AED 1000 ($273) per Buggy",
+            "package_category_img": "/images/package/dune/4_Seater_Mleiha _Dune_Buggy_Safari_Without_Transfer.png",
+  
+            "faq_left": [
+                {
+                    "eventKey": 0,
+                    "question": "Is There Any Age Limit For Dune Buggy Tours?",
+                    "answer": "Drivers Should Be Above 16 Years"
+                },
+                {
+                    "eventKey": 1,
+                    "question": "What Is The Cancellation Policy?",
+                    "answer": "No Cancellation Charges For 1 Day Notice Before The Buggy Tour. Full Charged For Less Than 24 Hours Notice Or No Show."
+                },
+                {
+                    "eventKey": 2,
+                    "question": "Can I Get A Refund On Unused Or Partially Unused Services?",
+                    "answer": "No"
+                },
+                {
+                    "eventKey": 3,
+                    "question": "How Long Will It Take For The Processing Of Refunds?",
+                    "answer": "7 To 8 Working Days."
+                },
+                {
+                    "eventKey": 4,
+                    "question": "What should I wear and bring for the buggy tours?",
+                    "answer": "Participants are advised to wear comfortable outdoor clothing suitable for the weather conditions. Closed-toe shoes are recommended. Bring sunscreen, sunglasses, a hat, and plenty of water."
+                },
+                {
+                    "eventKey": 5,
+                    "question": "Can I bring my camera or GoPro on the safari?",
+                    "answer": "Yes, participants are encouraged to bring cameras or GoPros to capture moments. Ensure they are secured properly to prevent damage on rugged terrain."
+                },
+                {
+                    "eventKey": 6,
+                    "question": "How can I contact Zerzura Experience for more information or to book a safari Dubai?",
+                    "answer": "For more information or bookings, contact Zerzura Experience through their website, email, or phone. Customer service representatives are available for assistance."
+                },
+                {
+                    "eventKey": 7,
+                    "question": "Are meals included in the dune buggy packages?",
+                    "answer": "Meal inclusions vary depending on the safari package. Some packages include meals, while others offer meal options at an additional cost."
+                },
+                {
+                    "eventKey": 8,
+                    "question": "Are helmets provided, and do I need to wear one?",
+                    "answer": "Yes, helmets are provided, and wearing them is mandatory throughout the safari for your safety."
+                },
+                {
+                    "eventKey": 9,
+                    "question": "Can children ride along on the tours?",
+                    "answer": "Yes, children can ride as passengers with a parent or guardian as long as they meet the minimum age requirement."
+                }
+            ],
+            "faq_right": [
+                {
+                    "eventKey": 0,
+                    "question": "What Are The Procedures To Cancel A Reservation And Request A Refund?",
+                    "answer": "Send Us An E-mail Confirming That You Want To Cancel The Reservation. We’ll Be More Than Happy To Help You With The Process"
+                },
+                {
+                    "eventKey": 1,
+                    "question": "What should I expect during the tours?",
+                    "answer": "During the dune buggy rides, Dubai expect to encounter thrilling terrain including sand dunes, desert trails, and possibly even rocky terrain. You’ll navigate through varying landscapes while enjoying panoramic views of the desert. The experience combines adventure with the opportunity to appreciate the natural beauty of the surroundings."
+                },
+                {
+                    "eventKey": 2,
+                    "question": "Do I need prior driving experience to join the safari?",
+                    "answer": "No prior driving experience is necessary. Our expert guides will provide comprehensive safety briefings and instructions on operating the dune buggies Dubai. They will ensure that all participants feel comfortable and confident before embarking on the adventure."
+                },
+                {
+                    "eventKey": 3,
+                    "question": "Are there any specific rules or guidelines I should follow during the safari?",
+                    "answer": "Yes, participants are expected to follow the instructions provided by the tour guide, including staying on designated trails, maintaining a safe distance from other vehicles, and respecting the natural environment."
+                },
+                {
+                    "eventKey": 4,
+                    "question": "Is the Dune Buggy safe?",
+                    "answer": "Safety is our top priority, and our dune buggies are meticulously maintained to ensure optimal performance and reliability. Additionally, our experienced guides are trained in first aid and equipped with communication devices to handle any emergencies that may arise during the safari."
+                },
+                {
+                    "eventKey": 5,
+                    "question": "Is transportation provided to the safari location?",
+                    "answer": "Zerzura Experience may offer transportation services as part of the safari package, depending on the location and package chosen. Participants are advised to check the details of their chosen package for transportation arrangements."
+                },
+                {
+                    "eventKey": 6,
+                    "question": "Do I need to book in advance for a dune buggy tours with Zerzura Experience?",
+                    "answer": "It’s highly recommended to book in advance to secure your spot, especially during peak seasons. Zerzura Experience may accommodate last-minute bookings depending on availability, but advance booking ensures availability and allows for better planning."
+                },
+                {
+                    "eventKey": 7,
+                    "question": "Can pregnant women participate in the dune buggy?",
+                    "answer": "No, for safety reasons, pregnant women are not allowed to drive or participate in the dune buggy rides. The terrain and conditions can be unpredictable, and we prioritize the safety and well-being of all our guests, including unborn children."
+                },
+                {
+                    "eventKey": 8,
+                    "question": "Are there any medical restrictions for participating in the dune buggy Dubai?",
+                    "answer": "While there are no specific medical restrictions, participants should be in good physical health and free from any conditions that could be aggravated by the bumpy terrain or outdoor conditions. If you have any concerns, please consult with your healthcare provider before booking."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Dune Buggy With Private Dinner ( 2 Seater)",
+            "description": "A day out on the sands in the Desert Fox coupled with a delicious meal by starlight!",
+            "offer": {
+                "offer1": "7 hours",
+                "offer2": "Pickup & Drop-off",
+                "offer3": "Mleiha Desert",
+                "offer4": "Min. 2 persons"
+            },
+            "price": "AED 3000 ($817) per couple",
+            "package_category_img": "/images/package/dune/Dune_Buggy_With_Private_Dinner_( 2 Seater).png",
+
+            "faq_left": [
+                {
+                    "eventKey": 0,
+                    "question": "Is There Any Age Limit For Dune Buggy Tours?",
+                    "answer": "Drivers Should Be Above 16 Years"
+                },
+                {
+                    "eventKey": 1,
+                    "question": "What Is The Cancellation Policy?",
+                    "answer": "No Cancellation Charges For 1 Day Notice Before The Buggy Tour. Full Charged For Less Than 24 Hours Notice Or No Show."
+                },
+                {
+                    "eventKey": 2,
+                    "question": "Can I Get A Refund On Unused Or Partially Unused Services?",
+                    "answer": "No"
+                },
+                {
+                    "eventKey": 3,
+                    "question": "How Long Will It Take For The Processing Of Refunds?",
+                    "answer": "7 To 8 Working Days."
+                },
+                {
+                    "eventKey": 4,
+                    "question": "What should I wear and bring for the buggy tours?",
+                    "answer": "Participants are advised to wear comfortable outdoor clothing suitable for the weather conditions. Closed-toe shoes are recommended. Bring sunscreen, sunglasses, a hat, and plenty of water."
+                },
+                {
+                    "eventKey": 5,
+                    "question": "Can I bring my camera or GoPro on the safari?",
+                    "answer": "Yes, participants are encouraged to bring cameras or GoPros to capture moments. Ensure they are secured properly to prevent damage on rugged terrain."
+                },
+                {
+                    "eventKey": 6,
+                    "question": "How can I contact Zerzura Experience for more information or to book a safari Dubai?",
+                    "answer": "For more information or bookings, contact Zerzura Experience through their website, email, or phone. Customer service representatives are available for assistance."
+                },
+                {
+                    "eventKey": 7,
+                    "question": "Are meals included in the dune buggy packages?",
+                    "answer": "Meal inclusions vary depending on the safari package. Some packages include meals, while others offer meal options at an additional cost."
+                },
+                {
+                    "eventKey": 8,
+                    "question": "Are helmets provided, and do I need to wear one?",
+                    "answer": "Yes, helmets are provided, and wearing them is mandatory throughout the safari for your safety."
+                },
+                {
+                    "eventKey": 9,
+                    "question": "Can children ride along on the tours?",
+                    "answer": "Yes, children can ride as passengers with a parent or guardian as long as they meet the minimum age requirement."
+                }
+            ],
+            "faq_right": [
+                {
+                    "eventKey": 0,
+                    "question": "What Are The Procedures To Cancel A Reservation And Request A Refund?",
+                    "answer": "Send Us An E-mail Confirming That You Want To Cancel The Reservation. We’ll Be More Than Happy To Help You With The Process"
+                },
+                {
+                    "eventKey": 1,
+                    "question": "What should I expect during the tours?",
+                    "answer": "During the dune buggy rides, Dubai expect to encounter thrilling terrain including sand dunes, desert trails, and possibly even rocky terrain. You’ll navigate through varying landscapes while enjoying panoramic views of the desert. The experience combines adventure with the opportunity to appreciate the natural beauty of the surroundings."
+                },
+                {
+                    "eventKey": 2,
+                    "question": "Do I need prior driving experience to join the safari?",
+                    "answer": "No prior driving experience is necessary. Our expert guides will provide comprehensive safety briefings and instructions on operating the dune buggies Dubai. They will ensure that all participants feel comfortable and confident before embarking on the adventure."
+                },
+                {
+                    "eventKey": 3,
+                    "question": "Are there any specific rules or guidelines I should follow during the safari?",
+                    "answer": "Yes, participants are expected to follow the instructions provided by the tour guide, including staying on designated trails, maintaining a safe distance from other vehicles, and respecting the natural environment."
+                },
+                {
+                    "eventKey": 4,
+                    "question": "Is the Dune Buggy safe?",
+                    "answer": "Safety is our top priority, and our dune buggies are meticulously maintained to ensure optimal performance and reliability. Additionally, our experienced guides are trained in first aid and equipped with communication devices to handle any emergencies that may arise during the safari."
+                },
+                {
+                    "eventKey": 5,
+                    "question": "Is transportation provided to the safari location?",
+                    "answer": "Zerzura Experience may offer transportation services as part of the safari package, depending on the location and package chosen. Participants are advised to check the details of their chosen package for transportation arrangements."
+                },
+                {
+                    "eventKey": 6,
+                    "question": "Do I need to book in advance for a dune buggy tours with Zerzura Experience?",
+                    "answer": "It’s highly recommended to book in advance to secure your spot, especially during peak seasons. Zerzura Experience may accommodate last-minute bookings depending on availability, but advance booking ensures availability and allows for better planning."
+                },
+                {
+                    "eventKey": 7,
+                    "question": "Can pregnant women participate in the dune buggy?",
+                    "answer": "No, for safety reasons, pregnant women are not allowed to drive or participate in the dune buggy rides. The terrain and conditions can be unpredictable, and we prioritize the safety and well-being of all our guests, including unborn children."
+                },
+                {
+                    "eventKey": 8,
+                    "question": "Are there any medical restrictions for participating in the dune buggy Dubai?",
+                    "answer": "While there are no specific medical restrictions, participants should be in good physical health and free from any conditions that could be aggravated by the bumpy terrain or outdoor conditions. If you have any concerns, please consult with your healthcare provider before booking."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Dune Buggy With Desert Safari ( 2 Seater)",
+            "description": "Spend the afternoon out on the desert in our Desert Fox dune buggies and retire to a Bedouin-themed campsite for dinner after!",
+            "offer": {
+                "offer1": "8 hours",
+                "offer2": "Pickup & Drop-off",
+                "offer3": "Mleiha Desert",
+                "offer4": "Min. 2 persons"
+            },
+            "price": "AED 2000 ($545) per person",
+            "package_category_img": "/images/package/dune/Dune_Buggy_With_Desert_Safari_( 2 Seater).png",
+
+            "faq_left": [
+                {
+                    "eventKey": 0,
+                    "question": "Is There Any Age Limit For Dune Buggy Tours?",
+                    "answer": "Drivers Should Be Above 16 Years"
+                },
+                {
+                    "eventKey": 1,
+                    "question": "What Is The Cancellation Policy?",
+                    "answer": "No Cancellation Charges For 1 Day Notice Before The Buggy Tour. Full Charged For Less Than 24 Hours Notice Or No Show."
+                },
+                {
+                    "eventKey": 2,
+                    "question": "Can I Get A Refund On Unused Or Partially Unused Services?",
+                    "answer": "No"
+                },
+                {
+                    "eventKey": 3,
+                    "question": "How Long Will It Take For The Processing Of Refunds?",
+                    "answer": "7 To 8 Working Days."
+                },
+                {
+                    "eventKey": 4,
+                    "question": "What should I wear and bring for the buggy tours?",
+                    "answer": "Participants are advised to wear comfortable outdoor clothing suitable for the weather conditions. Closed-toe shoes are recommended. Bring sunscreen, sunglasses, a hat, and plenty of water."
+                },
+                {
+                    "eventKey": 5,
+                    "question": "Can I bring my camera or GoPro on the safari?",
+                    "answer": "Yes, participants are encouraged to bring cameras or GoPros to capture moments. Ensure they are secured properly to prevent damage on rugged terrain."
+                },
+                {
+                    "eventKey": 6,
+                    "question": "How can I contact Zerzura Experience for more information or to book a safari Dubai?",
+                    "answer": "For more information or bookings, contact Zerzura Experience through their website, email, or phone. Customer service representatives are available for assistance."
+                },
+                {
+                    "eventKey": 7,
+                    "question": "Are meals included in the dune buggy packages?",
+                    "answer": "Meal inclusions vary depending on the safari package. Some packages include meals, while others offer meal options at an additional cost."
+                },
+                {
+                    "eventKey": 8,
+                    "question": "Are helmets provided, and do I need to wear one?",
+                    "answer": "Yes, helmets are provided, and wearing them is mandatory throughout the safari for your safety."
+                },
+                {
+                    "eventKey": 9,
+                    "question": "Can children ride along on the tours?",
+                    "answer": "Yes, children can ride as passengers with a parent or guardian as long as they meet the minimum age requirement."
+                }
+            ],
+            "faq_right": [
+                {
+                    "eventKey": 0,
+                    "question": "What Are The Procedures To Cancel A Reservation And Request A Refund?",
+                    "answer": "Send Us An E-mail Confirming That You Want To Cancel The Reservation. We’ll Be More Than Happy To Help You With The Process"
+                },
+                {
+                    "eventKey": 1,
+                    "question": "What should I expect during the tours?",
+                    "answer": "During the dune buggy rides, Dubai expect to encounter thrilling terrain including sand dunes, desert trails, and possibly even rocky terrain. You’ll navigate through varying landscapes while enjoying panoramic views of the desert. The experience combines adventure with the opportunity to appreciate the natural beauty of the surroundings."
+                },
+                {
+                    "eventKey": 2,
+                    "question": "Do I need prior driving experience to join the safari?",
+                    "answer": "No prior driving experience is necessary. Our expert guides will provide comprehensive safety briefings and instructions on operating the dune buggies Dubai. They will ensure that all participants feel comfortable and confident before embarking on the adventure."
+                },
+                {
+                    "eventKey": 3,
+                    "question": "Are there any specific rules or guidelines I should follow during the safari?",
+                    "answer": "Yes, participants are expected to follow the instructions provided by the tour guide, including staying on designated trails, maintaining a safe distance from other vehicles, and respecting the natural environment."
+                },
+                {
+                    "eventKey": 4,
+                    "question": "Is the Dune Buggy safe?",
+                    "answer": "Safety is our top priority, and our dune buggies are meticulously maintained to ensure optimal performance and reliability. Additionally, our experienced guides are trained in first aid and equipped with communication devices to handle any emergencies that may arise during the safari."
+                },
+                {
+                    "eventKey": 5,
+                    "question": "Is transportation provided to the safari location?",
+                    "answer": "Zerzura Experience may offer transportation services as part of the safari package, depending on the location and package chosen. Participants are advised to check the details of their chosen package for transportation arrangements."
+                },
+                {
+                    "eventKey": 6,
+                    "question": "Do I need to book in advance for a dune buggy tours with Zerzura Experience?",
+                    "answer": "It’s highly recommended to book in advance to secure your spot, especially during peak seasons. Zerzura Experience may accommodate last-minute bookings depending on availability, but advance booking ensures availability and allows for better planning."
+                },
+                {
+                    "eventKey": 7,
+                    "question": "Can pregnant women participate in the dune buggy?",
+                    "answer": "No, for safety reasons, pregnant women are not allowed to drive or participate in the dune buggy rides. The terrain and conditions can be unpredictable, and we prioritize the safety and well-being of all our guests, including unborn children."
+                },
+                {
+                    "eventKey": 8,
+                    "question": "Are there any medical restrictions for participating in the dune buggy Dubai?",
+                    "answer": "While there are no specific medical restrictions, participants should be in good physical health and free from any conditions that could be aggravated by the bumpy terrain or outdoor conditions. If you have any concerns, please consult with your healthcare provider before booking."
+                }
+            ]
+        }
+    ],
+
+
+    "private_dinner": [
+        {
+            "id": 1,
+            "title": "Private Dinner With Mleiha Safari",
+            "description": "Enjoy a delicious meal under the stars, surrounded by the stunning scenery of this historic UNESCO World Heritage Site.",
+            "offer": {
+                "offer1": "6 hours",
+                "offer2": "Pickup & Drop-off",
+                "offer3": "Mleiha Desert",
+                "offer4": "Min. 2 persons"
+            },
+            "price": "AED 2200 ($599) for 2 person",
+            "package_category_img": "/images/package/dune/Private_Dinner_With_Mleiha_Safari.png",
+
+            "faq_left": [
+                {
+                    "eventKey": 0,
+                    "question": "Is There Any Age Limit For Dune Buggy Tours?",
+                    "answer": "Drivers Should Be Above 16 Years"
+                },
+                {
+                    "eventKey": 1,
+                    "question": "What Is The Cancellation Policy?",
+                    "answer": "No Cancellation Charges For 1 Day Notice Before The Buggy Tour. Full Charged For Less Than 24 Hours Notice Or No Show."
+                },
+                {
+                    "eventKey": 2,
+                    "question": "Can I Get A Refund On Unused Or Partially Unused Services?",
+                    "answer": "No"
+                },
+                {
+                    "eventKey": 3,
+                    "question": "How Long Will It Take For The Processing Of Refunds?",
+                    "answer": "7 To 8 Working Days."
+                },
+                {
+                    "eventKey": 4,
+                    "question": "What should I wear and bring for the buggy tours?",
+                    "answer": "Participants are advised to wear comfortable outdoor clothing suitable for the weather conditions. Closed-toe shoes are recommended. Bring sunscreen, sunglasses, a hat, and plenty of water."
+                },
+                {
+                    "eventKey": 5,
+                    "question": "Can I bring my camera or GoPro on the safari?",
+                    "answer": "Yes, participants are encouraged to bring cameras or GoPros to capture moments. Ensure they are secured properly to prevent damage on rugged terrain."
+                },
+                {
+                    "eventKey": 6,
+                    "question": "How can I contact Zerzura Experience for more information or to book a safari Dubai?",
+                    "answer": "For more information or bookings, contact Zerzura Experience through their website, email, or phone. Customer service representatives are available for assistance."
+                },
+                {
+                    "eventKey": 7,
+                    "question": "Are meals included in the dune buggy packages?",
+                    "answer": "Meal inclusions vary depending on the safari package. Some packages include meals, while others offer meal options at an additional cost."
+                },
+                {
+                    "eventKey": 8,
+                    "question": "Are helmets provided, and do I need to wear one?",
+                    "answer": "Yes, helmets are provided, and wearing them is mandatory throughout the safari for your safety."
+                },
+                {
+                    "eventKey": 9,
+                    "question": "Can children ride along on the tours?",
+                    "answer": "Yes, children can ride as passengers with a parent or guardian as long as they meet the minimum age requirement."
+                }
+            ],
+            "faq_right": [
+                {
+                    "eventKey": 0,
+                    "question": "What Are The Procedures To Cancel A Reservation And Request A Refund?",
+                    "answer": "Send Us An E-mail Confirming That You Want To Cancel The Reservation. We’ll Be More Than Happy To Help You With The Process"
+                },
+                {
+                    "eventKey": 1,
+                    "question": "What should I expect during the tours?",
+                    "answer": "During the dune buggy rides, Dubai expect to encounter thrilling terrain including sand dunes, desert trails, and possibly even rocky terrain. You’ll navigate through varying landscapes while enjoying panoramic views of the desert. The experience combines adventure with the opportunity to appreciate the natural beauty of the surroundings."
+                },
+                {
+                    "eventKey": 2,
+                    "question": "Do I need prior driving experience to join the safari?",
+                    "answer": "No prior driving experience is necessary. Our expert guides will provide comprehensive safety briefings and instructions on operating the dune buggies Dubai. They will ensure that all participants feel comfortable and confident before embarking on the adventure."
+                },
+                {
+                    "eventKey": 3,
+                    "question": "Are there any specific rules or guidelines I should follow during the safari?",
+                    "answer": "Yes, participants are expected to follow the instructions provided by the tour guide, including staying on designated trails, maintaining a safe distance from other vehicles, and respecting the natural environment."
+                },
+                {
+                    "eventKey": 4,
+                    "question": "Is the Dune Buggy safe?",
+                    "answer": "Safety is our top priority, and our dune buggies are meticulously maintained to ensure optimal performance and reliability. Additionally, our experienced guides are trained in first aid and equipped with communication devices to handle any emergencies that may arise during the safari."
+                },
+                {
+                    "eventKey": 5,
+                    "question": "Is transportation provided to the safari location?",
+                    "answer": "Zerzura Experience may offer transportation services as part of the safari package, depending on the location and package chosen. Participants are advised to check the details of their chosen package for transportation arrangements."
+                },
+                {
+                    "eventKey": 6,
+                    "question": "Do I need to book in advance for a dune buggy tours with Zerzura Experience?",
+                    "answer": "It’s highly recommended to book in advance to secure your spot, especially during peak seasons. Zerzura Experience may accommodate last-minute bookings depending on availability, but advance booking ensures availability and allows for better planning."
+                },
+                {
+                    "eventKey": 7,
+                    "question": "Can pregnant women participate in the dune buggy?",
+                    "answer": "No, for safety reasons, pregnant women are not allowed to drive or participate in the dune buggy rides. The terrain and conditions can be unpredictable, and we prioritize the safety and well-being of all our guests, including unborn children."
+                },
+                {
+                    "eventKey": 8,
+                    "question": "Are there any medical restrictions for participating in the dune buggy Dubai?",
+                    "answer": "While there are no specific medical restrictions, participants should be in good physical health and free from any conditions that could be aggravated by the bumpy terrain or outdoor conditions. If you have any concerns, please consult with your healthcare provider before booking."
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "title": "Dune Buggy With Private Dinner ( 2 Seater)",
+            "description": "A day out on the sands in the Desert Fox coupled with a delicious meal by starlight!",
+            "offer": {
+                "offer1": "7 hours",
+                "offer2": "4x4 luxury",
+                "offer3": "Mleiha Desert",
+                "offer4": "Min. 2 persons"
+            },
+            "price": "AED 3000 ($817) for 2 Person",
+            "package_category_img": "/images/package/dune/Dune_Buggy_With_Private_Dinner_(2_Seater).png",
+            "faq_left": [
+                {
+                    "eventKey": 0,
+                    "question": "Is There Any Age Limit For Dune Buggy Tours?",
+                    "answer": "Drivers Should Be Above 16 Years"
+                },
+                {
+                    "eventKey": 1,
+                    "question": "What Is The Cancellation Policy?",
+                    "answer": "No Cancellation Charges For 1 Day Notice Before The Buggy Tour. Full Charged For Less Than 24 Hours Notice Or No Show."
+                },
+                {
+                    "eventKey": 2,
+                    "question": "Can I Get A Refund On Unused Or Partially Unused Services?",
+                    "answer": "No"
+                },
+                {
+                    "eventKey": 3,
+                    "question": "How Long Will It Take For The Processing Of Refunds?",
+                    "answer": "7 To 8 Working Days."
+                },
+                {
+                    "eventKey": 4,
+                    "question": "What should I wear and bring for the buggy tours?",
+                    "answer": "Participants are advised to wear comfortable outdoor clothing suitable for the weather conditions. Closed-toe shoes are recommended. Bring sunscreen, sunglasses, a hat, and plenty of water."
+                },
+                {
+                    "eventKey": 5,
+                    "question": "Can I bring my camera or GoPro on the safari?",
+                    "answer": "Yes, participants are encouraged to bring cameras or GoPros to capture moments. Ensure they are secured properly to prevent damage on rugged terrain."
+                },
+                {
+                    "eventKey": 6,
+                    "question": "How can I contact Zerzura Experience for more information or to book a safari Dubai?",
+                    "answer": "For more information or bookings, contact Zerzura Experience through their website, email, or phone. Customer service representatives are available for assistance."
+                },
+                {
+                    "eventKey": 7,
+                    "question": "Are meals included in the dune buggy packages?",
+                    "answer": "Meal inclusions vary depending on the safari package. Some packages include meals, while others offer meal options at an additional cost."
+                },
+                {
+                    "eventKey": 8,
+                    "question": "Are helmets provided, and do I need to wear one?",
+                    "answer": "Yes, helmets are provided, and wearing them is mandatory throughout the safari for your safety."
+                },
+                {
+                    "eventKey": 9,
+                    "question": "Can children ride along on the tours?",
+                    "answer": "Yes, children can ride as passengers with a parent or guardian as long as they meet the minimum age requirement."
+                }
+            ],
+            "faq_right": [
+                {
+                    "eventKey": 0,
+                    "question": "What Are The Procedures To Cancel A Reservation And Request A Refund?",
+                    "answer": "Send Us An E-mail Confirming That You Want To Cancel The Reservation. We’ll Be More Than Happy To Help You With The Process"
+                },
+                {
+                    "eventKey": 1,
+                    "question": "What should I expect during the tours?",
+                    "answer": "During the dune buggy rides, Dubai expect to encounter thrilling terrain including sand dunes, desert trails, and possibly even rocky terrain. You’ll navigate through varying landscapes while enjoying panoramic views of the desert. The experience combines adventure with the opportunity to appreciate the natural beauty of the surroundings."
+                },
+                {
+                    "eventKey": 2,
+                    "question": "Do I need prior driving experience to join the safari?",
+                    "answer": "No prior driving experience is necessary. Our expert guides will provide comprehensive safety briefings and instructions on operating the dune buggies Dubai. They will ensure that all participants feel comfortable and confident before embarking on the adventure."
+                },
+                {
+                    "eventKey": 3,
+                    "question": "Are there any specific rules or guidelines I should follow during the safari?",
+                    "answer": "Yes, participants are expected to follow the instructions provided by the tour guide, including staying on designated trails, maintaining a safe distance from other vehicles, and respecting the natural environment."
+                },
+                {
+                    "eventKey": 4,
+                    "question": "Is the Dune Buggy safe?",
+                    "answer": "Safety is our top priority, and our dune buggies are meticulously maintained to ensure optimal performance and reliability. Additionally, our experienced guides are trained in first aid and equipped with communication devices to handle any emergencies that may arise during the safari."
+                },
+                {
+                    "eventKey": 5,
+                    "question": "Is transportation provided to the safari location?",
+                    "answer": "Zerzura Experience may offer transportation services as part of the safari package, depending on the location and package chosen. Participants are advised to check the details of their chosen package for transportation arrangements."
+                },
+                {
+                    "eventKey": 6,
+                    "question": "Do I need to book in advance for a dune buggy tours with Zerzura Experience?",
+                    "answer": "It’s highly recommended to book in advance to secure your spot, especially during peak seasons. Zerzura Experience may accommodate last-minute bookings depending on availability, but advance booking ensures availability and allows for better planning."
+                },
+                {
+                    "eventKey": 7,
+                    "question": "Can pregnant women participate in the dune buggy?",
+                    "answer": "No, for safety reasons, pregnant women are not allowed to drive or participate in the dune buggy rides. The terrain and conditions can be unpredictable, and we prioritize the safety and well-being of all our guests, including unborn children."
+                },
+                {
+                    "eventKey": 8,
+                    "question": "Are there any medical restrictions for participating in the dune buggy Dubai?",
+                    "answer": "While there are no specific medical restrictions, participants should be in good physical health and free from any conditions that could be aggravated by the bumpy terrain or outdoor conditions. If you have any concerns, please consult with your healthcare provider before booking."
+                }
+            ]
+        }
+    ]
+}
+
+
+
+

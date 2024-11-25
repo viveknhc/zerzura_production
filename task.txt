@@ -1,0 +1,31 @@
+remaining task
+
+General:
+Responsive in all screen(✅Home,)
+other pages
+moving line
+
+Home:
+Navbar Responsive,(✅almost)
+Banner Button ✅
+Explore Mleiha Responsive✅
+Insta Feed clickable Button
+call Blog from API✅
+
+About:
+Auto change Image and Responsive✅
+
+Package Page:
+place a button for slider✅
+package include is a mapping ✅
+Auto change Image✅
+FAQ Based on package✅
+
+Blog:
+convert to html ✅
+banner design✅
+
+ 
+Contact US:
+Thank YOu Page
+Checking other pages
