@@ -24,6 +24,7 @@ import Error404 from '../pages/Error404.jsx';
 import TestHome from '../pages/TestHome.jsx';
 import PrivateDinnerPackageDetail from '../pages/PrivateDinnerPackageDetail.jsx';
 import NavbarSecond from '../components/NavbarSecond.jsx';
+import Navbar from '../components/Navbar.jsx';
 
 
 export default function LayoutRouts() {
@@ -54,7 +55,7 @@ export default function LayoutRouts() {
         <MouseStalker />
         <RefreshToTop />
         <Preloader />
-        <NavbarSecond/>
+        <Navbar/>
         <Routes>
           <Route path='*' element={<Error404 />} />
           <Route path='/' element={<Home />} />

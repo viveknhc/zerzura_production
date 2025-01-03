@@ -165,7 +165,7 @@ export default function Home() {
 
                                 </div>
                             </div>
-                        </div>+
+                        </div>
 
                         <div className="button-box-wrap" onMouseLeave={handleMouseLeave}>
                             <div className="button-box">
